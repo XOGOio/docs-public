@@ -6,7 +6,7 @@
 
 ![](admin-command-prompt.jpg)
 
-4. Copy and past the command below and hit enter to install the application. 
+4. Copy and paste the command below and hit enter to install the application. 
 
     **[x64]**  
     dism /online /Add-ProvisionedAppxPackage /packagepath:C:\Xogo\e22c9f6366df449498d44621d7bff3fa.appxbundle /licensepath:C:\Xogo\e22c9f6366df449498d44621d7bff3fa_License1.xml /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe.appx
