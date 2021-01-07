@@ -10,15 +10,15 @@
 5. Copy and paste the command below and hit enter to install the application. 
 
     **[x64]**  
-    dism /online /Add-ProvisionedAppxPackage /packagepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb.appxbundle /licensepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb_License1.xml /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe.appx
+    dism /online /Add-ProvisionedAppxPackage /packagepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb.appxbundle /licensepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb_License1.xml /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.VCLibs.140.00_14.0.29231.0_x64__8wekyb3d8bbwe.appx
 
     **[x86]**  
-    dism /online /Add-ProvisionedAppxPackage /packagepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb.appxbundle /licensepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb_License1.xml /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x86__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x86__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.VCLibs.140.00_14.0.27810.0_x86__8wekyb3d8bbwe.appx
+    dism /online /Add-ProvisionedAppxPackage /packagepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb.appxbundle /licensepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb_License1.xml /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x86__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x86__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.VCLibs.140.00_14.0.29231.0_x86__8wekyb3d8bbwe.appx
     
     **[arm]**  
-    dism /online /Add-ProvisionedAppxPackage /packagepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb.appxbundle /licensepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb_License1.xml /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_arm__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_arm__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.VCLibs.140.00_14.0.27810.0_arm__8wekyb3d8bbwe.appx
+    dism /online /Add-ProvisionedAppxPackage /packagepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb.appxbundle /licensepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb_License1.xml /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_arm__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_arm__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.VCLibs.140.00_14.0.29231.0_arm__8wekyb3d8bbwe.appx
     
     **[arm64]**  
-    dism /online /Add-ProvisionedAppxPackage /packagepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb.appxbundle /licensepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb_License1.xml /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_arm64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_arm64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.VCLibs.140.00_14.0.27810.0_arm64__8wekyb3d8bbwe.appx
+    dism /online /Add-ProvisionedAppxPackage /packagepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb.appxbundle /licensepath:C:\Xogo\553becbaf4574bd0a0370f759028fefb_License1.xml /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_arm64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_arm64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.VCLibs.140.00_14.0.29231.0_arm64__8wekyb3d8bbwe.appx
 
 6. You are done!
