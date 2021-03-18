@@ -21,7 +21,7 @@
     **[arm64]**  
     dism /online /Add-ProvisionedAppxPackage /packagepath:C:\Xogo\a3433df2069a422e8673db817658b0b3.appxbundle /licensepath:C:\Xogo\a3433df2069a422e8673db817658b0b3_License1.xml /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_arm64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_arm64__8wekyb3d8bbwe.appx /DependencyPackagePath:C:\Xogo\Microsoft.VCLibs.140.00_14.0.29231.0_arm64__8wekyb3d8bbwe.appx
 
-6. Download "[Embedded Mode Package](https://xogoarchive.blob.core.windows.net/player-provisioning-packages/AllowEmbeddedMode.ppkg?st=2020-01-12T14%3A02%3A00Z&se=2021-01-14T14%3A02%3A00Z&sp=r&sv=2018-03-28&sr=b&sig=IU%2B0telOxY%2F2MRYhn3AjKPXA42oGEcjhMR0YqZVOmzM%3D)".
+6. Download "[Embedded Mode Package](https://xogoarchive.blob.core.windows.net/player-provisioning-packages/AllowEmbeddedMode.ppkg)".
 
 7. Run the Embedded Mode Package and complete installation.
 
