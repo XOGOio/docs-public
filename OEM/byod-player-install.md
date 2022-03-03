@@ -2,8 +2,9 @@
 
 1. Create a folder on your root drive (C:) named XOGO.
 2. Download the latest [XOGO Player OEM package](https://xogoarchive.blob.core.windows.net/player-oem-packages/XOGO.Signage.UWP_2.0.33.0_x86_x64_ARM_bundle.appxupload_Windows10_PreinstallKit.zip?sv=2019-12-12&st=2021-01-12T20%3A01%3A37Z&se=2022-12-10T20%3A01%3A00Z&sr=b&sp=r&sig=ko%2FOf0sXqwLRdMRKPse7j5urfI07ChDzNjXVd2t4MGE%3D) to the Downloads folder on your computer.
-3. Extract the zip file, open it, and then copy its contents (not the file itself) over to the C:/XOGO folder that you created.
-4. Type CMD in the Windows search bar to open Command Prompt. Click the "Run as Administrator" option that shows up on the right side. 
+3. Extract the zip file, open it, and then copy its contents over to the C:/XOGO folder that you created.
+![image](https://user-images.githubusercontent.com/43625896/156653082-3c76e690-c768-4d7c-8e0f-d5b05e70953e.png)
+5. Type CMD in the Windows search bar to open Command Prompt. Click the "Run as Administrator" option that shows up on the right side. 
 
 ![](admin-command-prompt.jpg)
 
